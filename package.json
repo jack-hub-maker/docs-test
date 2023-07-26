@@ -1,0 +1,26 @@
+{
+  "name": "docs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jack-hub-maker/docs-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jack-hub-maker/docs-test/issues"
+  },
+  "homepage": "https://github.com/jack-hub-maker/docs-test#readme",
+  "dependencies": {
+    "vue": "2.7.14",
+    "vue-server-renderer": "2.7.14"
+  }
+}
