@@ -54,6 +54,7 @@ module.exports = [
       "/Basics/React/React_development.md",
       "/Basics/React/React_lagou.md",
       "/Basics/React/React_lagou2.md",
+      "/Basics/React/React_hoc.md",
       // "/Basics/React_hooks.md",
     ],
   },
